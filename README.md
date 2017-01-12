@@ -11,10 +11,6 @@ Rules:
 
 4. You are armed with 5 weapons, which have 5 different levels of shooting. 
 
-5. Moving, jumping, crouching - WSAD
-
-6. Shooting - LPM
-
-7. Changing weapon - buttons 1, 2, 3, 4, 5
+5. Move, jump, crouch - WSAD; Shoot0 - LMB; Change weapon - buttons 1, 2, 3, 4, 5
 
 Good luck!
