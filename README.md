@@ -5,7 +5,7 @@ Rules:
 
 1. The main target is to achieve coin, which is located on the right side of map.
 
-2. On your way there are many enemies - spiders.
+2. There are many enemies on your way - spiders.
 
 3. Each spider has a different color and different health points.
 
