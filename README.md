@@ -9,7 +9,7 @@ Rules:
 
 3. Each spider has a different color and different health points.
 
-4. You are armed with 5 a weapons, which have 5 different levels of shooting. 
+4. You are armed with 5 weapons, which have 5 different levels of shooting. 
 
 5. Moving, jumping, crouching - WSAD
 
